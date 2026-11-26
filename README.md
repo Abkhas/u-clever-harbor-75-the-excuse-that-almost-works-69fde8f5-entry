@@ -10,6 +10,10 @@ The program writes a single line of plain text — the excuse a gamer texts the 
 
 The entry leans on a real-world appointment window — a landlord-booked gas check, Thursday eight to twelve, already missed twice, with a sixty-pound charge per missed visit — so the excuse reads like a chore the boss cannot argue with, rather than a holiday dressed up as one.
 
+## Round 2 challenger
+
+The current line — "Landlord booked the gas check Thursday eight to twelve, missed it twice already and he charges sixty pounds a visit." — was duel-locked for round 2. It beat the round-1 line 0.75 on the real judge route (OpenRouter z-ai/glm-5.3-flash) and beat the rank-20 neighbour line 0.70, confirmed by a re-duel. It wins because it adds a named day (Thursday), a landlord booking, a missed-twice history, and a £60-per-visit charge — the four details the round-1 neighbours above us all shared.
+
 Run it with:
 
 ```sh
