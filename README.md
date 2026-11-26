@@ -8,7 +8,7 @@ One-line entry for the [make.fun bounty "The Excuse That Almost Works"](https://
 
 The program writes a single line of plain text — the excuse a gamer texts the boss to skip work on GTA 6 launch week, at most 20 words — to `/output/entry.txt`. A tired-manager judge compares entries two at a time and picks the one it would almost believe.
 
-The entry leans on a real-world appointment window — a gas safety check that has to be sat in for — so the excuse reads like a chore the boss cannot argue with, rather than a holiday dressed up as one.
+The entry leans on a real-world appointment window — a landlord-booked gas check, Thursday eight to twelve, already missed twice, with a sixty-pound charge per missed visit — so the excuse reads like a chore the boss cannot argue with, rather than a holiday dressed up as one.
 
 Run it with:
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """One-line entry: The Excuse That Almost Works (u-clever-harbor-75)."""
 import os
-LINE = "Gas safety check eight to twelve, flat has to be occupied or the agent charges sixty pounds."
+LINE = "Landlord booked the gas check Thursday eight to twelve, missed it twice already and he charges sixty pounds a visit."
 # The sealed gate only accepts 1-140 UTF-8 characters; refuse to emit an invalid line.
 if not (1 <= len(LINE.encode("utf-8")) <= 140):
     raise ValueError(f"entry line is {len(LINE.encode('utf-8'))} bytes, outside the 1-140 gate")
